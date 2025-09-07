@@ -1,6 +1,6 @@
 # Hi there, I'm Louis B. 👋
 
-**First-year Industrial Computer Science Major** | **C & Python Specialist** | **Java & C++ Learner** | **DevOps Enthusiast**
+**Second-year Industrial Computer Science Major** | **C & Python Specialist** | **Java & C++ Learner** | **DevOps Enthusiast**
 
 I’m a passionate programmer with a strong foundation in **C** and **Python**, and I’m currently expanding my skills in **Java** and **C++**. I love solving complex problems, building efficient systems, and automating everything I can. When I’m not coding, you’ll find me diving into new technologies, contributing to open-source projects, or tinkering with DevOps tools.
 
