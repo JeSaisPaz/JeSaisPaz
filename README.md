@@ -39,9 +39,9 @@ I enjoy working on projects that challenge me to think creatively and solve real
 ---
 
 ## 📫 **Let’s Connect!**
-- [LinkedIn](https://www.linkedin.com/in/your-profile) (Add your LinkedIn URL)
-- [Email](mailto\:your.email@example.com) (Add your email)
-- [Portfolio](https://your-portfolio-url.com) (Add your portfolio URL, if any)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/louis-boutry-9b1899342/))
+- [Email](mailto\:boutrylouiscsag@gmail.com)
+- [Portfolio]() (Comming Soon !)
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
