@@ -39,7 +39,7 @@ I enjoy working on projects that challenge me to think creatively and solve real
 ---
 
 ## 📫 **Let’s Connect!**
-- [LinkedIn]([https://www.linkedin.com/in/louis-boutry-9b1899342/])
+- [LinkedIn](https://www.linkedin.com/in/louis-boutry-9b1899342)
 - [Email](mailto\:boutrylouiscsag@gmail.com)
 - [Portfolio]() (Comming Soon !)
 
