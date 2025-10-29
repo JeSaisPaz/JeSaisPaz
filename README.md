@@ -12,7 +12,7 @@ I’m a passionate programmer with a strong foundation in **C** and **Java**, an
 |----------------|------------------------------------------------------------------------------|
 | **Languages**  | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) |
 | **DevOps**     | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?logo=portainer&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) |
-| **Tools**      | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) Git, Linux, VS Code, Jupyter Notebook |
+| **Tools**      | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) Git, Linux |
 
 ---
 
